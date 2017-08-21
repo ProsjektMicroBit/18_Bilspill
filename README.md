@@ -1,2 +1,2 @@
 # Bilspill
-Trykk på A for å bevege deg til høyre, B for venstre. Ungå motgående trafikk.
+Trykk på A for å bevege deg til venstre, B for høyre. Ungå motgående trafikk.
